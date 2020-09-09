@@ -268,7 +268,8 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right top, #3d5afe 0%, #76ff03 100%);
+    background-image: linear-gradient(to right top, #3d5afe 0%, #76ff03 100%);\\导航栏
+    opacity: 0.8;  //透明效果 值范围 0~1，看情况自己修改
 }
 
 .text-color {
